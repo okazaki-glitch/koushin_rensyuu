@@ -10,3 +10,4 @@ main更新
 test
 2日目になったよ
 branchを変更したよ
+変更したbranchで開発を進めるよ
